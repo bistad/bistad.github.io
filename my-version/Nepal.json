@@ -1,0 +1,116 @@
+{ 
+  "name": "Nepal",
+  "children": [
+      {
+      "name": "PN1",  
+      "children":[
+      {"name": "Bhojpur","size": 182459},
+      {"name":"Dhankuta", "size": 163412},
+      {"name":"Ilam", "size": 290254},
+      {"name":"Jhapa", "size": 812650},
+      {"name":"Khotang", "size": 206312},
+      {"name":"Morang", "size": 965370},
+      {"name":"Okhaldhunga", "size": 147984},
+      {"name":"Panchthar", "size": 191817},
+      {"name":"Sankhauasabha", "size": 158742},
+      {"name":"Solukhumbu", "size": 105886},
+      {"name":"Sunsari", "size": 763487},
+      {"name":"Taplejung", "size": 127461},
+      {"name": "Terhathum", "size": 101577},
+      {"name": "Udayapur", "size":317532}
+      ]
+      },
+     {
+      "name":"PN2",
+      "children": [  
+       {"name":"Saptari", "size": 639284},
+       {"name":"Parsa", "size": 601017},
+       {"name":"Bara", "size": 687708},
+       {"name":"Siraha", "size": 637328},
+       {"name":"Dhanusha", "size": 754777},
+       {"name":"Rautahat",  "size": 686722},    
+       {"name": "Mahottari", "size": 627580},
+       {"name": "Sarlahi", "size": 769729}
+        ]
+      },
+     {
+     "name":"PN3",
+     "children": [  
+      {"name":"Bhaktapur", "size": 304651},
+      {"name":"Chitwan", "size": 579984},
+      {"name":"Dhading", "size": 336067},
+      {"name":"Dolakha", "size": 186557},
+      {"name":"Kathmandu", "size": 1744240},
+      {"name":"Kavrepalanchok", "size": 381937},
+      {"name":"Lalitpur", "size": 468132},
+      {"name":"Makwanpur", "size": 420477},
+      {"name":"Nukuwot", "size": 277471},
+      {"name":"Ramechaap", "size": 202646},
+      {"name":"Rasuwa", "size": 43300},
+      {"name":"Sindhuli", "size": 296192},
+      {"name":"Sindupalchok", "size": 287798}
+        ]
+     },
+    {
+    "name":"PN4",
+    "children": [
+      {"name": "Baglung", "size": 268613},
+      {"name":"Gorkha", "size": 271061},
+      {"name":"Kaski", "size": 492098},
+      {"name":"Lamjung","size": 167724},
+      {"name": "Manang", "size": 6538},
+      {"name": "Mustang", "size": 13452},
+      {"name": "Myagdi", "size": 113641},
+      {"name":"Parbat", "size": 146590},
+      {"name":"Syangja", "size": 289148},
+      {"name":"Tanahun", "size": 323288},
+      {"name":"East_Nawalparasi", "size": 310864}
+        ]
+   },
+   {
+    "name":"PN5",  
+    "children": [
+      {"name":"Arghakhanchi", "size": 197632},
+      {"name":"Banke", "size": 491313},
+      {"name":"Bardiya", "size": 426576},
+      {"name":"Dang", "size": 552583},
+      {"name":"Eastern_Rukum", "size":53018},
+      {"name":"West_Nawalparasi", "size":321058},
+      {"name":"Gulmi", "size": 280160},
+      {"name":"Kapilvastu", "size": 571936},
+      {"name":"Palpa", "size": 261180},
+      {"name":"Pyuthan", "size": 228102},
+      {"name":"Rolpa", "size": 224506},
+      {"name":"Rupandehi", "size": 880196}
+        ]
+   },
+    {
+     "name":"PN6",
+     "children": [  
+      {"name": "Dailekh", "size": 261770},
+      {"name":"Dolpa", "size": 36700},
+      {"name":"Humla", "size": 50858},
+      {"name": "Jajarkot", "size": 171304},
+      {"name":"Jumla", "size": 108921},
+      {"name": "Kalikot", "size": 136948},
+      {"name": "Mugu", "size": 55286},
+      {"name": "Salyan", "size": 242444},
+      {"name":"Surkhet", "size": 350804},
+      {"name": "Western_Rukum", "size": 154272}
+         ]
+   },   
+   {"name":"PN7",  
+      "children": [
+       {"name":"Achham", "size": 257477},
+       {"name":"Baitadi", "size": 250898},
+       {"name":"Bajhang", "size": 195159},
+       {"name": "Bajura", "size": 134912},
+       {"name": "Dadeldhura", "size": 142094},
+       {"name":"Darchula", "size": 133274},
+       {"name":"Doti", "size": 211746},
+       {"name":"Kailali", "size": 775709},
+       {"name":"Kanchanpur", "size": 451248}
+   ]
+}
+      ]
+}
